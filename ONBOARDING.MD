@@ -1,5 +1,4 @@
-# CoronaTrace
-## Onboarding Document
+# CoronaTrace Onboarding
 
 
 
