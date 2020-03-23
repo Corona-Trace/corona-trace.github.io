@@ -3,14 +3,14 @@
 
 
 
-##Mission Statement:
+## Mission Statement:
 Limit the spread of Covid-19 and save lives by using decentralized contact-tracing using mobile phones and GPS. 
 
-##Overview:
+## Overview:
 Mitigation of Coronavirus must balance the effects on the economy with the safety of citizens. 
 Nationwide social-isolation and quarantines are helpful in the short-term to limit the possibility that hospitals are overwhelmed. In the long term quarantines are not sustainable because the economy pays a huge price when people continue to socially isolate. Lifting quarantine-like restrictions is not possible without risking a subsequent flareup of cases unless we adopt contact tracing as a wide-spread measure. Contact Tracing is currently a time-intensive and centralized process which will overwhelm health systems when tracking thousands of cases unless we adopt technology to decentralize and load-balance.
 
-##Philosophy on Privacy:
+## Philosophy on Privacy:
 We take privacy seriously. We believe that private information can be sufficiently protected and voluntarily shared to help save lives during this crisis. 
 * CoronaTrace is an opt-in app. We will use clear disclaimers as people sign up to explain what information is shared and how it will be used.
 * Location History - This traditionally private information will be disassociated from an individual before inclusion in the CoronaTrace database; this information will not be made publicly visible; any displays will be of aggregated information
