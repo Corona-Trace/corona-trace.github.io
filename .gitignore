@@ -1,0 +1,5 @@
+# Jekyll stuff
+/_site/
+_site/
+.jekyll-cache
+.sass-cache
