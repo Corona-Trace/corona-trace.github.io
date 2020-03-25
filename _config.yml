@@ -23,7 +23,7 @@ description              : "How do we win the war against the virus? We go hunti
 url                      : "https://corona-trace.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Corona-Trace/corona-trace.github.io
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/favico.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -34,8 +34,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook               : # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -69,7 +68,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : TraceCorona
 facebook:
   username               :
   app_id                 :
@@ -84,9 +83,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-12358141-41
     anonymize_ip         : # true, false (default)
 
 
@@ -151,6 +150,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
@@ -171,6 +171,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /_site
 keep_files:
   - .git
   - .svn

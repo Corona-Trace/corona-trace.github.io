@@ -6,7 +6,7 @@ date: 2020-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/hero.jpeg
+  overlay_image: /assets/images/masthead.jpg
   actions:
     - label: "Join Slack Team"
       url: "https://join.slack.com/t/coronatrace/shared_invite/zt-cwbz4cdh-q2l7B~DlYNpxnjrn2zF23g"
