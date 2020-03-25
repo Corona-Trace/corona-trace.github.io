@@ -118,8 +118,10 @@ Now, that includes you!!
 
 An initial MVP of the application has completed the first phase of development - which means full-end-to-end notifications on iOS and Android-based on people that were in a Spatio-temporal radius. 
 
-[Here’s a video of the app in action](
-https://drive.google.com/file/d/1H4BAqJ4V9W_m6Y7GZ9W5veq-1wfFVxLW/view?usp=sharing)
+<video width="640" height="360" style="margin-bottom: 1.3em;" preload="auto" controls>
+  <source src="/assets/videos/demo.mp4" type="video/mp4">
+  <p><a target="_blank" href="/assets/videos/demo.mp4">Here’s a video of the app in action.</a></p>
+</video>
 
 **Is there a Github repo?**
 
