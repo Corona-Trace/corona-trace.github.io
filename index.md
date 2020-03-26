@@ -119,7 +119,7 @@ Now, that includes you!!
 An initial MVP of the application has completed the first phase of development - which means full-end-to-end notifications on iOS and Android-based on people that were in a Spatio-temporal radius. 
 
 <video width="640" height="360" style="margin-bottom: 1.3em;" preload="auto" controls>
-  <source src="/assets/videos/200326_CoronaTrace Demo Video.mov" type="video/mov">
+  <source src="/assets/videos/200326_CoronaTrace Demo Video.mov" type="video/quicktime">
   <p><a target="_blank" href="/assets/videos/200326_CoronaTrace Demo Video.mov">Here’s a video of the app in action.</a></p>
 </video>
 
